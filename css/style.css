@@ -1,0 +1,46 @@
+div{
+	width: 40px;
+	height:40px;
+	background-color: grey;
+	margin-bottom:40px;
+	margin-right: 40px;
+	margin-top:40px;
+	margin-left:40px;
+	padding:20px 20px 20px 20px;
+
+
+
+	float:left; 
+}
+
+span{
+	width: 40px;
+	height:40px;
+	background-color: orange;
+	margin-bottom:40px;
+	margin-right: 40px;
+	margin-top:40px;
+	margin-left:40px;
+	padding:20px 20px 20px 20px;
+
+
+	float:left; 
+}
+
+img{
+	width:80%;
+	font-family: monospace;
+}
+
+a{
+	width:70px;
+	height:40px;
+	background-color: orange;
+	font-size:50px;
+	padding: 40px 80px 40px 80px;
+	display: inline;
+}
+
+a:hover{
+	background-color: red;
+}
